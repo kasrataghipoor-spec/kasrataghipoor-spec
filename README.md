@@ -1,5 +1,5 @@
 <h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
-<h2>im kasra taghipoor (hacker , coder , developer , terorist ,...</h2>
+<h2 align="center">im kasra taghipoor (hacker , coder , developer , terrorist , cat ,...</h2>
 ###
 
 <div data-importer="techs" align="center">
