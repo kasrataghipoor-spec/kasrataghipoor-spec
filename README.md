@@ -1,6 +1,6 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<h1 data-importer="text" align="center">Hey nigga👋What's Up?</h1>
 <h2 align="center">im kasra taghipoor (hacker , coder , developer , terrorist , cat ,...</h2>
-###
+
 
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
